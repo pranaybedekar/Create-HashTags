@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Create-HashTags/static/css/main.849d4826.css",
+    "main.js": "/Create-HashTags/static/js/main.560dc1f0.js",
+    "index.html": "/Create-HashTags/index.html",
+    "main.849d4826.css.map": "/Create-HashTags/static/css/main.849d4826.css.map",
+    "main.560dc1f0.js.map": "/Create-HashTags/static/js/main.560dc1f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.849d4826.css",
+    "static/js/main.560dc1f0.js"
+  ]
+}
